@@ -1,6 +1,7 @@
 node_modules
 .env
 dist/
+todo.txt
 
 # Node Modules
 client/node_modules
